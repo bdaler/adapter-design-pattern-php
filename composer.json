@@ -1,0 +1,16 @@
+{
+    "name": "bdaler/adapter",
+    "description": "Adapter design pattern in PHP",
+    "authors": [
+        {
+            "name": "Daler B",
+            "email": "bdaler@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
